@@ -8,7 +8,8 @@ import {StyleSheet,
         KeyboardAvoidingView, 
         Platform, 
         TouchableWithoutFeedback, 
-        Keyboard} from 'react-native';
+        Keyboard
+        } from 'react-native';
 import colors from '../styles/colors';
 import fonts from '../styles/fonts';
 import {Button} from '../components/Button';
